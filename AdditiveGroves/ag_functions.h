@@ -53,4 +53,3 @@ double meanLG(INDdata& db, TrainInfo ti, int repeatN, double& resStd, string mod
 
 //implementation for erase for reverse iterator
 void rerase(intv& vec, intv::reverse_iterator& iter);
-
